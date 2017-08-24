@@ -1,0 +1,3 @@
+Halite is an Artificial Intelligence competition that pits bots to fight eachother.
+The game is about conquering territory while managing bot strength and bot production.
+My latest bot (Communist Cthulhu bot) reached Gold ranking at ~50/1500 at its peak.
